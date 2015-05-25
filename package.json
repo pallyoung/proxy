@@ -1,0 +1,18 @@
+{
+	"main":"./lib/proxy",
+	"name":"proxy",
+	"description":"基于NodeJs的代理",
+	"version":"1.0",
+	"keywords":["package","proxy"],
+	"maintainers":[{
+		"name":"Spencer Ye",
+		"email":"pallyoung@163.com"
+		}],
+	"contributors":[{
+		"name":"Spencer Ye",
+		"email":"pallyoung@163.com"
+	}],
+	"bugs":{
+		"email":"pallyoung@163.com"
+	}	
+}
